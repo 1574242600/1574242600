@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+NOTE: these does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a feature of github-readme-stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=1574242600&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1574242600&hide=html,css" />
+</a>
+
 <!--
 **1574242600/1574242600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
